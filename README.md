@@ -21,7 +21,7 @@ For more information you can [view the presentation:](https://docs.google.com/pr
 - Write one acceptance test based on the user story.
 - Write many user tests. One for each possible scenario!
 
-## Java specific guidelines
+## Kotlin specific guidelines
 
 - Fork this repo to start working
 ... Tancrede to complete
