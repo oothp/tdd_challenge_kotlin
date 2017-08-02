@@ -25,3 +25,8 @@ For more information you can [view the presentation:](https://docs.google.com/pr
 
 - Fork this repo to start working
 ... Tancrede to complete
+
+## User Story
+AS A USER, I WANT TO SEE WHAT OTHER USER’S LIKES ARE, SO THAT CAN DECIDE WHETHER TO MEET THEM. 
+
+
